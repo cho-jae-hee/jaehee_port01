@@ -51,7 +51,7 @@ html {
 }
 /* s0 앞표지 */
 .s0 {
-    background: url(../img/chipanddale.jpg) no-repeat center center;
+    background: url(../img/webdonald.jpg) no-repeat center center;
     background-size: cover;
 }
 .s0>.section_home>h1 {
@@ -300,6 +300,10 @@ html {
         color: #fff; border-radius: 5px;
     }
     /********** s0 앞표지 ************/
+    .s0 {
+        background: url(../img/mobilechip.jpg) no-repeat center center;
+        background-size: cover;
+    }
     .section_home {
         width: 85%; height: 95vh;
         margin: auto;
