@@ -220,6 +220,7 @@ html {
 .right_arrow {
     position: absolute; right: 10px; top: 45%;
     cursor: pointer;
+    z-index: 10;
 }
 /*<<<<<<<<<태블릿 700px이상 ~ 1279px 이하 >>>>>>>>>>>>*/
 @media screen and (min-width: 700px) and (max-width: 1279px) {
